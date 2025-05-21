@@ -1,8 +1,8 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]//
 央卫官源,#genre#
-酷9影视天光云影,
-支持官源播放,
-DIYP和影视仓不支持，
+酷9影视天光云影,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
+支持官源播放,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
+DIYP和影视仓不支持,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV-1综合,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV-2财经,webview://https://tv.cctv.com/live/cctv2/
 CCTV-3综艺,webview://https://tv.cctv.com/live/cctv3/
