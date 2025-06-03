@@ -1,69 +1,131 @@
-央视频道,#genre#
-CCTV-1综合,webview://https://tv.cctv.com/live/cctv1/
-CCTV-2财经,webview://https://tv.cctv.com/live/cctv2/
-CCTV-3综艺,webview://https://tv.cctv.com/live/cctv3/
-CCTV-4国际,webview://https://tv.cctv.com/live/cctv4/
-CCTV-4国际,webview://https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV-4国际,webview://https://tv.cctv.com/live/cctvamerica/
-CCTV-5体育,webview://https://tv.cctv.com/live/cctv5/
-CCTV-5+赛事,webview://https://tv.cctv.com/live/cctv5plus/
-CCTV-6电影,webview://https://tv.cctv.com/live/cctv6/
-CCTV-7军事,webview://https://tv.cctv.com/live/cctv7/
-CCTV-8电视,webview://https://tv.cctv.com/live/cctv8/
-CCTV-9纪录,webview://https://tv.cctv.com/live/cctvjilu/
-CCTV-10科教,webview://https://tv.cctv.com/live/cctv10/
-CCTV-11戏曲,webview://https://tv.cctv.com/live/cctv11/
-CCTV-12社法,webview://https://tv.cctv.com/live/cctv12/
-CCTV-13新闻,webview://https://tv.cctv.com/live/cctv13/
-CCTV-14少儿,webview://https://tv.cctv.com/live/cctvchild/
-CCTV-15音乐,webview://https://tv.cctv.com/live/cctv15/
-CCTV-16奥匹,webview://https://tv.cctv.com/live/cctv16/
-CCTV-17农村,webview://https://tv.cctv.com/live/cctv17/
-卫视频道,#genre#
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
-大湾区卫视（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
-广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
-广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
-广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
-广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
-4K,webview://https://www.gdtv.cn/tvChannelDetail/16
-广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
-嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
-南方购物,webview://https://www.gdtv.cn/tvChannelDetail/42
-岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
-广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
-荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
-纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
-GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
-GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
-GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
-青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
-青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
-钱江都市,webview://https://www.cztv.com/liveTV/102
-浙江经济生活,webview://https://www.cztv.com/liveTV/103
-浙江科教影视,webview://https://www.cztv.com/liveTV/104
-浙江民生休闲,webview://https://www.cztv.com/liveTV/106
-浙江新闻,webview://https://www.cztv.com/liveTV/107
-浙江少儿,webview://https://www.cztv.com/liveTV/108
-浙江国际,webview://https://www.cztv.com/liveTV/110
-浙江之江记录,webview://https://www.cztv.com/liveTV/112
-NBTV1,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
-NBTV2,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
-NBTV3,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
-NBTV4,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
-合肥新闻,webview://https://app.hfbtc.cn/shows/2/1.html
-合肥生活,webview://https://app.hfbtc.cn/shows/2/2.html
-合肥科创,webview://https://app.hfbtc.cn/shows/2/3.html
-合肥教育法治,webview://https://app.hfbtc.cn/shows/2/4.html
-池州综合,webview://https://www.chiznews.com/radio-television
-南昌新闻综合,webview://https://www.nctv.net.cn/live
-吉安综合,webview://http://www.ijatv.com/live/jatv1/
-吉安公共,webview://http://www.ijatv.com/live/jatv2/
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视频道",CCTV1
+webview://https://tv.cctv.com/live/cctv1/
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视频道",CCTV2
+webview://https://tv.cctv.com/live/cctv2/
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视频道",CCTV3
+webview://https://tv.cctv.com/live/cctv3/
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视频道",CCTV4
+webview://https://tv.cctv.com/live/cctv4/#webview://https://tv.cctv.com/live/cctveurope/index.shtml#webview://https://tv.cctv.com/live/cctvamerica/
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视频道",CCTV5
+webview://https://tv.cctv.com/live/cctv5/
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://assets.livednow.com/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+webview://https://tv.cctv.com/live/cctv5plus/
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视频道",CCTV6
+webview://https://tv.cctv.com/live/cctv6/
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视频道",CCTV7
+webview://https://tv.cctv.com/live/cctv7/
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视频道",CCTV8
+webview://https://tv.cctv.com/live/cctv8/
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视频道",CCTV9
+webview://https://tv.cctv.com/live/cctvjilu/
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视频道",CCTV10
+webview://https://tv.cctv.com/live/cctv10/
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视频道",CCTV11
+webview://https://tv.cctv.com/live/cctv11/
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视频道",CCTV12
+webview://https://tv.cctv.com/live/cctv12/
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视频道",CCTV13
+webview://https://tv.cctv.com/live/cctv13/
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视频道",CCTV14
+webview://https://tv.cctv.com/live/cctvchild/
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视频道",CCTV15
+webview://https://tv.cctv.com/live/cctv15/
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视频道",CCTV16
+webview://https://tv.cctv.com/live/cctv16/
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视频道",CCTV17
+webview://https://tv.cctv.com/live/cctv17/
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视频道",广东卫视
+webview://https://www.gdtv.cn/tvChannelDetail/43
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://assets.livednow.com/logo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
+webview://https://www.gdtv.cn/tvChannelDetail/51
+#EXTINF:-1 tvg-name="大湾区卫视（海外版）" tvg-logo="https://assets.livednow.com/logo/大湾区卫视（海外版）.png" group-title="卫视频道",大湾区卫视（海外版）
+webview://https://www.gdtv.cn/tvChannelDetail/46
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://assets.livednow.com/logo/广东珠江.png" group-title="地方频道",广东珠江
+webview://https://www.gdtv.cn/tvChannelDetail/44
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://assets.livednow.com/logo/广东新闻.png" group-title="地方频道",广东新闻
+webview://https://www.gdtv.cn/tvChannelDetail/45
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://assets.livednow.com/logo/广东民生.png" group-title="地方频道",广东民生
+webview://https://www.gdtv.cn/tvChannelDetail/48
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://assets.livednow.com/logo/广东体育.png" group-title="地方频道",广东体育
+webview://https://www.gdtv.cn/tvChannelDetail/47
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://assets.livednow.com/logo/广东影视.png" group-title="地方频道",广东影视
+webview://https://www.gdtv.cn/tvChannelDetail/53
+#EXTINF:-1 tvg-name="4K" tvg-logo="https://assets.livednow.com/logo/4K.png" group-title="地方频道",4K
+webview://https://www.gdtv.cn/tvChannelDetail/16
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://assets.livednow.com/logo/广东少儿.png" group-title="地方频道",广东少儿
+webview://https://www.gdtv.cn/tvChannelDetail/54
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://assets.livednow.com/logo/嘉佳卡通.png" group-title="地方频道",嘉佳卡通
+webview://https://www.gdtv.cn/tvChannelDetail/66
+#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://assets.livednow.com/logo/南方购物.png" group-title="地方频道",南方购物
+webview://https://www.gdtv.cn/tvChannelDetail/42
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://assets.livednow.com/logo/岭南戏曲.png" group-title="地方频道",岭南戏曲
+webview://https://www.gdtv.cn/tvChannelDetail/15
+#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://assets.livednow.com/logo/广东移动.png" group-title="地方频道",广东移动
+webview://https://www.gdtv.cn/tvChannelDetail/74
+#EXTINF:-1 tvg-name="荔枝台" tvg-logo="https://assets.livednow.com/logo/荔枝台.png" group-title="地方频道",荔枝台
+webview://https://www.gdtv.cn/tvChannelDetail/100
+#EXTINF:-1 tvg-name="纪录片" tvg-logo="https://assets.livednow.com/logo/纪录片.png" group-title="地方频道",纪录片
+webview://https://www.gdtv.cn/tvChannelDetail/94
+#EXTINF:-1 tvg-name="GRTN健康频道" tvg-logo="https://assets.livednow.com/logo/GRTN健康频道.png" group-title="地方频道",GRTN健康频道
+webview://https://www.gdtv.cn/tvChannelDetail/99
+#EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://assets.livednow.com/logo/GRTN文化频道.png" group-title="地方频道",GRTN文化频道
+webview://https://www.gdtv.cn/tvChannelDetail/75
+#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://assets.livednow.com/logo/GRTN生活频道.png" group-title="地方频道",GRTN生活频道
+webview://https://www.gdtv.cn/tvChannelDetail/102
+#EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://assets.livednow.com/logo/GRTN教育频道.png" group-title="地方频道",GRTN教育频道
+webview://https://www.gdtv.cn/tvChannelDetail/104
+#EXTINF:-1 tvg-name="青岛1" tvg-logo="https://assets.livednow.com/logo/青岛1.png" group-title="地方频道",青岛1
+webview://http://www.qtv.com.cn/live/tv/index.shtml
+#EXTINF:-1 tvg-name="青岛2" tvg-logo="https://assets.livednow.com/logo/青岛2.png" group-title="地方频道",青岛2
+webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+#EXTINF:-1 tvg-name="青岛3" tvg-logo="https://assets.livednow.com/logo/青岛3.png" group-title="地方频道",青岛3
+webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+#EXTINF:-1 tvg-name="青岛4" tvg-logo="https://assets.livednow.com/logo/青岛4.png" group-title="地方频道",青岛4
+webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+#EXTINF:-1 tvg-name="青岛5" tvg-logo="https://assets.livednow.com/logo/青岛5.png" group-title="地方频道",青岛5
+webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+#EXTINF:-1 tvg-name="青岛6" tvg-logo="https://assets.livednow.com/logo/青岛6.png" group-title="地方频道",青岛6
+webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
+#EXTINF:-1 tvg-name="大同新闻综合" tvg-logo="https://assets.livednow.com/logo/大同新闻综合.png" group-title="地方频道",大同新闻综合
+webview://https://www.dtradio.com.cn/local/folder25
+#EXTINF:-1 tvg-name="钱江都市" tvg-logo="https://assets.livednow.com/logo/钱江都市.png" group-title="地方频道",钱江都市
+webview://https://www.cztv.com/liveTV/102
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://assets.livednow.com/logo/浙江经济生活.png" group-title="地方频道",浙江经济生活
+webview://https://www.cztv.com/liveTV/103
+#EXTINF:-1 tvg-name="浙江科教影视" tvg-logo="https://assets.livednow.com/logo/浙江科教影视.png" group-title="地方频道",浙江科教影视
+webview://https://www.cztv.com/liveTV/104
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://assets.livednow.com/logo/浙江民生休闲.png" group-title="地方频道",浙江民生休闲
+webview://https://www.cztv.com/liveTV/106
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://assets.livednow.com/logo/浙江新闻.png" group-title="地方频道",浙江新闻
+webview://https://www.cztv.com/liveTV/107
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://assets.livednow.com/logo/浙江少儿.png" group-title="地方频道",浙江少儿
+webview://https://www.cztv.com/liveTV/108
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://assets.livednow.com/logo/浙江国际.png" group-title="地方频道",浙江国际
+webview://https://www.cztv.com/liveTV/110
+#EXTINF:-1 tvg-name="浙江之江记录" tvg-logo="https://assets.livednow.com/logo/浙江之江记录.png" group-title="地方频道",浙江之江记录
+webview://https://www.cztv.com/liveTV/112
+#EXTINF:-1 tvg-name="NBTV1" tvg-logo="https://assets.livednow.com/logo/NBTV1.png" group-title="地方频道",NBTV1
+webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
+#EXTINF:-1 tvg-name="NBTV2" tvg-logo="https://assets.livednow.com/logo/NBTV2.png" group-title="地方频道",NBTV2
+webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
+#EXTINF:-1 tvg-name="NBTV3" tvg-logo="https://assets.livednow.com/logo/NBTV3.png" group-title="地方频道",NBTV3
+webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
+#EXTINF:-1 tvg-name="NBTV4" tvg-logo="https://assets.livednow.com/logo/NBTV4.png" group-title="地方频道",NBTV4
+webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
+#EXTINF:-1 tvg-name="合肥新闻" tvg-logo="https://assets.livednow.com/logo/合肥新闻.png" group-title="地方频道",合肥新闻
+webview://https://app.hfbtc.cn/shows/2/1.html
+#EXTINF:-1 tvg-name="合肥生活" tvg-logo="https://assets.livednow.com/logo/合肥生活.png" group-title="地方频道",合肥生活
+webview://https://app.hfbtc.cn/shows/2/2.html
+#EXTINF:-1 tvg-name="合肥科创" tvg-logo="https://assets.livednow.com/logo/合肥科创.png" group-title="地方频道",合肥科创
+webview://https://app.hfbtc.cn/shows/2/3.html
+#EXTINF:-1 tvg-name="合肥教育法治" tvg-logo="https://assets.livednow.com/logo/合肥教育法治.png" group-title="地方频道",合肥教育法治
+webview://https://app.hfbtc.cn/shows/2/4.html
+#EXTINF:-1 tvg-name="池州综合" tvg-logo="https://assets.livednow.com/logo/池州综合.png" group-title="地方频道",池州综合
+webview://https://www.chiznews.com/radio-television
+#EXTINF:-1 tvg-name="南昌新闻综合" tvg-logo="https://assets.livednow.com/logo/南昌新闻综合.png" group-title="地方频道",南昌新闻综合
+webview://https://www.nctv.net.cn/live
+#EXTINF:-1 tvg-name="吉安综合" tvg-logo="https://assets.livednow.com/logo/吉安综合.png" group-title="地方频道",吉安综合
+webview://http://www.ijatv.com/live/jatv1/
+#EXTINF:-1 tvg-name="吉安公共" tvg-logo="https://assets.livednow.com/logo/吉安公共.png" group-title="地方频道",吉安公共
+webview://http://www.ijatv.com/live/jatv2/
