@@ -129,3 +129,136 @@ webview://https://www.nctv.net.cn/live
 webview://http://www.ijatv.com/live/jatv1/
 #EXTINF:-1 tvg-name="吉安公共" tvg-logo="https://assets.livednow.com/logo/吉安公共.png" group-title="地方频道",吉安公共
 webview://http://www.ijatv.com/live/jatv2/
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+webview://https://www.sztv.com.cn/pindao/index.html?id=7867
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://assets.livednow.com/logo/广西卫视.png" group-title="卫视频道",广西卫视
+webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+webview://https://www.cztv.com/liveTV/101
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+webview://webview://https://live.jstv.com
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title="卫视频道",河南卫视
+webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://assets.livednow.com/logo/河北卫视.png" group-title="卫视频道",河北卫视
+webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://assets.livednow.com/logo/山西卫视.png" group-title="卫视频道",山西卫视
+webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxi
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://assets.livednow.com/logo/山西卫视.png" group-title="卫视频道",山西卫视
+webview://https://www.sxrtv.com/tv/index.shtml
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+webview://https://www.gstv.com.cn/zxc.jhtml#
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://assets.livednow.com/logo/青海卫视.png" group-title="卫视频道",青海卫视
+webview://https://www.qhbtv.com/new_index/live/folder2646/
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://assets.livednow.com/logo/海南卫视.png" group-title="卫视频道",海南卫视
+webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://assets.livednow.com/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://assets.livednow.com/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+webview://https://www.hljtv.com/live/folder418/
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://assets.livednow.com/logo/康巴卫视.png" group-title="卫视频道",康巴卫视
+webview://https://www.kangbatv.com/zb_22587/
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+webview://http://live.snrtv.com/star
+#EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://assets.livednow.com/logo/上海卫视.png" group-title="卫视频道",上海卫视
+webview://webview://https://live.kankanews.com/huikan?id=1
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+webview://https://news.hbtv.com.cn/app/tv/431
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+webview://https://www.jlntv.cn/tv
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://assets.livednow.com/logo/延边卫视.png" group-title="卫视频道",延边卫视
+webview://https://www.yb983.com/cys/index.html
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" group-title="卫视频道",山东卫视
+webview://https://v.iqilu.com/live/sdtv/
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://assets.livednow.com/logo/海峡卫视.png" group-title="卫视频道",海峡卫视
+webview://https://www.fjtv.net/folder526/folder536/
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://assets.livednow.com/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://assets.livednow.com/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+webview://https://www.nxtv.com.cn/tv/ws/
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+webview://https://www.gzstv.com/tv/ch01
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视频道",北京卫视
+webview://https://www.brtn.cn/btv/btvsy_index
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视频道",北京卫视
+webview://https://www.btime.com/btv/btvsy_index
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视频道",北京卫视
+webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视频道",北京卫视
+webview://https://yangshipin.cn/tv/home?pid=600002309
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+webview://https://yangshipin.cn/tv/home?pid=600002521
+#EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://assets.livednow.com/logo/上海卫视.png" group-title="卫视频道",上海卫视
+webview://https://yangshipin.cn/tv/home?pid=600002483
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+webview://https://yangshipin.cn/tv/home?pid=600002520
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+webview://https://yangshipin.cn/tv/home?pid=600002475
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+webview://https://yangshipin.cn/tv/home?pid=600002508
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视频道",广东卫视
+webview://https://yangshipin.cn/tv/home?pid=600002485
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://assets.livednow.com/logo/广东卫视4K.png" group-title="卫视频道",广东卫视4K
+webview://https://gdtv.cn/tvChannelDetail/
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://assets.livednow.com/logo/广西卫视.png" group-title="卫视频道",广西卫视
+webview://https://yangshipin.cn/tv/home?pid=600002509
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+webview://https://yangshipin.cn/tv/home?pid=600002498
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://assets.livednow.com/logo/海南卫视.png" group-title="卫视频道",海南卫视
+webview://https://yangshipin.cn/tv/home?pid=600002506
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://assets.livednow.com/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+webview://https://yangshipin.cn/tv/home?pid=600002531
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+webview://https://yangshipin.cn/tv/home?pid=600002481
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" group-title="卫视频道",四川卫视
+webview://https://yangshipin.cn/tv/home?pid=600002516
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title="卫视频道",河南卫视
+webview://https://yangshipin.cn/tv/home?pid=600002525
+#EXTINF:-1 tvg-name="福建卫视" tvg-logo="https://assets.livednow.com/logo/福建卫视.png" group-title="卫视频道",福建卫视
+webview://https://yangshipin.cn/tv/home?pid=600002484
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+webview://https://yangshipin.cn/tv/home?pid=600002490
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视频道",江西卫视
+webview://https://yangshipin.cn/tv/home?pid=600002503
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+webview://https://yangshipin.cn/tv/home?pid=600002505
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+webview://https://yangshipin.cn/tv/home?pid=600002532
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://assets.livednow.com/logo/河北卫视.png" group-title="卫视频道",河北卫视
+webview://https://yangshipin.cn/tv/home?pid=600002493
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" group-title="卫视频道",山东卫视
+webview://https://yangshipin.cn/tv/home?pid=600002513
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://assets.livednow.com/logo/天津卫视.png" group-title="卫视频道",天津卫视
+webview://https://yangshipin.cn/tv/home?pid=600152137
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+webview://https://yangshipin.cn/tv/home?pid=600190405
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+webview://https://yangshipin.cn/tv/home?pid=600190400
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+webview://https://yangshipin.cn/tv/home?pid=600190408
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://assets.livednow.com/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+webview://https://yangshipin.cn/tv/home?pid=600190737
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://assets.livednow.com/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+webview://https://yangshipin.cn/tv/home?pid=600190401
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" group-title="卫视频道",云南卫视
+webview://https://yangshipin.cn/tv/home?pid=600190402
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://assets.livednow.com/logo/山西卫视.png" group-title="卫视频道",山西卫视
+webview://https://yangshipin.cn/tv/home?pid=600190407
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://assets.livednow.com/logo/青海卫视.png" group-title="卫视频道",青海卫视
+webview://https://yangshipin.cn/tv/home?pid=600190406
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://assets.livednow.com/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+webview://https://yangshipin.cn/tv/home?pid=600190403
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://assets.livednow.com/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+webview://https://yangshipin.cn/tv/home?pid=600152138
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://assets.livednow.com/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+webview://https://yangshipin.cn/tv/home?pid=600193252
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+webview://https://m.456iptv.com/?act=play&token=e16c8d5106d7d2bdf73ae316793dd447&tid=ws&id=1
